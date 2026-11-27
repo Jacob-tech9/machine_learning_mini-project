@@ -1,0 +1,2 @@
+model,cv_recall_poison,cv_bal_acc,cv_prec_edible,train_cv_gap
+Decision Tree,0.9815566211729989,0.9787985451231747,0.9769810269400784,0.020898577422986286
